@@ -1,0 +1,49 @@
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(235, 231, 231, 0.5)50%,rgba(235, 231, 231, 0.5)50%),url(photo.webp); 
+    background-position: center;
+    background-size: cover;
+    height: 109vh;   
+}
+h1,h4{
+    color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+  color :black ; 
+}
+h5{
+    color:rgb(7, 6, 8);
+    border: 0cap;
+    font: optional;
+    size:0cap;
+
+}
+.zzz{
+    justify-content: right;
+}
+button{
+    border-radius: 5px;
+    color: #fff;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background: black;
+}
+button:hover{
+    color: #10a70e;
+}
+.icons a{
+    color: #317439;
+}
+.icons ion-icon{
+    color: #10a70e;
+    font-size:30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+
+}
+.icons ion-icon:hover{
+    color: #d9d313;
+
+}
